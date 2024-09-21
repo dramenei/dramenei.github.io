@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dramenei.github.io/sitemap.html.gz
+Sitemap: https://dramenei.github.io/app/sitemap.html.gz
+Sitemap: https://dramenei.github.io/assets/sitemap.html.gz
+Sitemap: https://dramenei.github.io/css/sitemap.html.gz
+Sitemap: https://dramenei.github.io/data/sitemap.html.gz
+Sitemap: https://dramenei.github.io/includes/sitemap.html.gz
+Sitemap: https://dramenei.github.io/item/sitemap.html.gz
+Sitemap: https://dramenei.github.io/src/sitemap.html.gz
